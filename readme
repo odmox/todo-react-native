@@ -1,0 +1,2 @@
+para probar el login
+https://odmox.us.auth0.com/login?client=Tc4uJe9vb7Z2BuJKRggf080x2gSqeAHs&protocol=oauth2&response_type=token%20id_token&redirect_uri=http://localhost:3000/callback&scope=openid%20profile
