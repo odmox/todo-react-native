@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Button, Alert } from "react-native";
-import { AuthSession } from "expo";
+import * as  AuthSession from "expo-auth-session";
 import * as Random from "expo-random";
 import * as SecureStore from "expo-secure-store";
 import jwtDecoder from "jwt-decode";

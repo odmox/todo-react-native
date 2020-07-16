@@ -45,7 +45,7 @@ const Main = ({ token, user }) => {
   );
 };
 
-Main.propTypes = {
+Main.w = {
   token: PropTypes.string.isRequired,
   user: PropTypes.object.isRequired
 };
